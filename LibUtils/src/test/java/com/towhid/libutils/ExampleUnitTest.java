@@ -1,4 +1,4 @@
-package com.towhid.utils;
+package com.towhid.libutils;
 
 import org.junit.Test;
 
